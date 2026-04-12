@@ -2,11 +2,11 @@
 
 ## 📌 Overview
 
-AISpaceTech is a modern technology platform developed to showcase AI-driven solutions, software development services, and digital innovation capabilities.
+AISpaceTech is a modern coworking space platform designed to provide flexible workspace solutions including hot desks, private offices, meeting rooms, and enterprise workspace services.
 
-The website is built using **Next.js**, focusing on performance, scalability, and SEO optimization. It represents a tech-oriented business offering services in artificial intelligence, web development, and digital transformation.
+The platform focuses on delivering a seamless digital experience for users to explore, evaluate, and connect with coworking services through a performance-optimized and SEO-structured frontend.
 
-This project was collaboratively developed, emphasizing structured architecture, fast rendering, and a professional user experience.
+This project was collaboratively developed using Next.js, ensuring better scalability, faster rendering, and improved SEO compared to traditional static websites.
 
 ---
 
