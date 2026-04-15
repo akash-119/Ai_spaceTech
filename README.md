@@ -41,10 +41,13 @@ This project was collaboratively developed using Next.js, ensuring better scalab
 
 
 * Services section
-  <img width="1664" height="847" alt="image" src="https://github.com/user-attachments/assets/3f5609cc-a391-4abe-bc84-14814a02b632" />
+
+<img width="1664" height="847" alt="image" src="https://github.com/user-attachments/assets/3f5609cc-a391-4abe-bc84-14814a02b632" />
 
 * Contact page
-  <img width="1664" height="847" alt="image" src="https://github.com/user-attachments/assets/bf8d353b-68e6-43fa-9911-a6bd2fe7cee2" />
+
+  
+<img width="1664" height="847" alt="image" src="https://github.com/user-attachments/assets/bf8d353b-68e6-43fa-9911-a6bd2fe7cee2" />
 
 ---
 
